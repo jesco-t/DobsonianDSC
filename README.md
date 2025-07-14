@@ -57,4 +57,5 @@ The axis gear has 155 teeth and the Encoder gear has 62. With 2400 pulses on the
 | Encoder | 600 steps A/B Encoder           | 2      |                            |
 | Misc    | M3 Screw Set                    | 1      |                            |
 | Misc    | M3 Heat Insets                  | 20     |                            |
+| Misc    | 3x20 Wood Screws                | 8      |                            |
 
