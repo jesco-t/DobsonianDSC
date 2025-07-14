@@ -30,6 +30,8 @@ The altitude gear is attached in three pieces: a mounting ring is glued onto the
 
 The encoder is screwed into its mount. The encoder gear is loosely slid over the encoder and the proper spacing to the axis gear is determined. The gears should mesh well with a bit but not too much play. Mark the position and screw the encoder mount onto the base.
 
+The axis gear has 155 teeth and the Encoder gear has 62. With 2400 pulses on the quadrature encoder this makes for 6000 steps across a 360° totation of the axis.
+
 ![altitude axis](images/IMG_3471.jpeg)
 
 ## Azimuth Axis
@@ -37,6 +39,8 @@ The encoder is screwed into its mount. The encoder gear is loosely slid over the
 The azimuth gear is mounted in the azimuth tension knob. It's held onto the knob with four M3 screws. The setup is the same as the altitude gear: mounting ring, spacer and then the actual gear. Here, the spacer and gear are attached with individual screws.
 
 The encoder is attached in a similar fashion than the altitude encoder. The gear itself is mounted reverse compared to the altitude axis. For the AZ gear, use the same STL file as-is for ALT gear on the encoder. Use your slicer to remove the upper 5mm of the gear so that the height of the gear mesh is correct.
+
+The axis gear has 155 teeth and the Encoder gear has 62. With 2400 pulses on the quadrature encoder this makes for 6000 steps across a 360° totation of the axis.
 
 ![azimuth axis](images/IMG_3502.jpeg)
 
