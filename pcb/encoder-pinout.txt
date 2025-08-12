@@ -1,0 +1,9 @@
+Red - VCC
+Black 0V
+Green - A
+White - B
+(Yellow - Z)
+(Brown - -A)
+(Gray - -B)
+(Orange - -Z)
+Shield
